@@ -1,6 +1,7 @@
-## 😀 Hello! My name is Gregório Gadea
-
- - I'm student of Analysis and System Development in IFSUL Livramento/Brazil!
+😀 Hello! My name is Gregório Gadea
+- I'm student of Analysis and System Development in IFSUL Livramento/Brazil!
+##
+ 
 
 <div align="center">
   <a href="https://github.com/gregoriogadea">
