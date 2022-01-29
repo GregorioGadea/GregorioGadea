@@ -1,4 +1,4 @@
- <h3>😀Hello! My name is Gregório Gadea</h3>
+ <h3>😀 Hello! My name is Gregório Gadea</h3>
 
 - I'm student of Analysis and System Development in IFSUL Livramento/Brazil!
 <br>
