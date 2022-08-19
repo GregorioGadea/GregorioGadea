@@ -1,6 +1,10 @@
  <h3>😀 Hello! My name is Gregório Gadea</h3>
 
-- I'm student of Analysis and System Development in IFSUL Livramento/Brazil!
+- I'm student of Analysis and System Development in IFSUL Livramento Brazil and UTEC Uruguay Rivera!
+
+![image](https://user-images.githubusercontent.com/94922868/185705954-ea1e68bf-7736-47e2-b419-3c75ff731be0.png)
+
+
 <br>
 
  
