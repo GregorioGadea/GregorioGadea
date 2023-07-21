@@ -16,7 +16,7 @@ I'm student of Analysis and System Development in IFSUL Livramento Brazil and UT
     style="width: 50px; height: 50px; margin: 6px;">
     <!--Java-->
     <img src="https://www.svgrepo.com/show/452234/java.svg" 
-    style="width: 50px; height: 50px; margin: 6px;">
+    style="width: 45px; height: 45px; margin: 6px;">
     
 </div>
 
