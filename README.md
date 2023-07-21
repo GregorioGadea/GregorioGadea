@@ -4,12 +4,10 @@ I'm student of Analysis and System Development in IFSUL Livramento Brazil and UT
 
 🇧🇷 🇺🇾
 
-<div style="display: inline-block;">
+<div style="display: flex;">
     <!--AWS-->
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" 
     style="width: 50px; height: 50px; margin: 4px;">
-</div>
-<div style="display: inline-block;">
     <!--Java-->
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" 
     style="width: 50px; height: 50px; margin: 4px;">
