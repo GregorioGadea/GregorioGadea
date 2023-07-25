@@ -1,4 +1,4 @@
-<h3>Hello!</h3>
+<h3 style="text-align: center">Hello!</h3>
 
 🇧🇷 🇺🇾
 
