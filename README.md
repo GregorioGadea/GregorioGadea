@@ -1,9 +1,9 @@
 <h3>Hello!</h3>
-<h4>My name is Gregório Gadea</h4>
-I'm student of Analysis and System Development in IFSUL Livramento Brazil and UTEC Rivera Uruguay and a Cloud Infrastructre Analyst at Vertigo Tecnologia.
 
 🇧🇷 🇺🇾
 
+
+<hr>
 <div style="display: flex;">
     <!--Terraform--->
     <img src="https://www.svgrepo.com/show/376353/terraform.svg" 
