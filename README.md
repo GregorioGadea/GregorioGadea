@@ -2,14 +2,15 @@
 
 👨‍🎓 Analyst & System Devlopment at IFSUL 
 <br>
+<br>
 ☁️ Cloud Infrastructure Analyst
 <br>
-🏛️ Vertigo Técnologia
+<br>
+🏛️ Vertigo Tecnologia
+<br>
 <br>
 🇧🇷🇺🇾
-
 <br>
-<hr>
 
 <div>
     <div style="display: flex;">
