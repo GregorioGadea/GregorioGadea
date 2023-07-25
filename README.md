@@ -1,9 +1,11 @@
 <h3>Hello!</h3>
 
-👨‍🎓 Analyst & System Devlopment at IFSUL
-☁️ Cloud Infrastructure Analyst 
+👨‍🎓 Analyst & System Devlopment at IFSUL 
+<br>
+☁️ Cloud Infrastructure Analyst
+<br>
 🏛️ Vertigo Técnologia
-
+<br>
 🇧🇷🇺🇾
 
 <br>
