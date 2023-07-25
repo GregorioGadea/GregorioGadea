@@ -6,7 +6,7 @@
 ☁️ Cloud Infrastructure Analyst
 <br>
 <br>
-🏛️ Vertigo Tecnologia
+🏢 Vertigo Tecnologia
 <br>
 <br>
 
