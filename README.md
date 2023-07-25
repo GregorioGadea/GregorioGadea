@@ -1,6 +1,6 @@
 <h3>Hello!</h3>
 
-👨‍🎓 Analyst & System Devlopment at IFSUL 
+👨‍🎓 Analysis and Systems Development at IFSUL
 <br>
 <br>
 ☁️ Cloud Infrastructure Analyst
