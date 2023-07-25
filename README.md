@@ -9,8 +9,6 @@
 🏛️ Vertigo Tecnologia
 <br>
 <br>
-🇧🇷🇺🇾
-<br>
 
 <div>
     <div style="display: flex;">
